@@ -1,0 +1,5 @@
+main: com.xenoceal.gungame.GunGame
+name: GunGame
+description: GunGame Plugin
+version: 1.0
+api-version: 1.12
